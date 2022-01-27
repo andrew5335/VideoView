@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "964378744199",
+    "project_id": "videoview-6a676",
+    "storage_bucket": "videoview-6a676.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964378744199:android:f8d900cf0c423978a9ef22",
+        "android_client_info": {
+          "package_name": "com.andrew.videoview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964378744199-5l7ur0a6ar94attnncr2k3na8n21fsk1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.andrew.videoview",
+            "certificate_hash": "34e03bad2218ee0e383b705220674cea0013a3f7"
+          }
+        },
+        {
+          "client_id": "964378744199-it17b7et5lbn2n6mm45i4b13fqcra9ip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj0WjL_Ta0wtWEtXOfVZ4f4T4-d-2KGvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964378744199-it17b7et5lbn2n6mm45i4b13fqcra9ip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

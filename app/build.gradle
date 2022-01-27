@@ -5,7 +5,6 @@ plugins {
 
 android {
     compileSdkVersion 30
-    buildToolsVersion "30.0.0"
 
     defaultConfig {
         applicationId "com.andrew.videoview"
@@ -42,10 +41,11 @@ dependencies {
 
     // firebase 사용을 위해 추가 2021-06-06 by Andrew Kim
     implementation platform('com.google.firebase:firebase-bom:28.1.0')
-    implementation 'com.google.firebase:firebase-analystics-ktx'
+    //implementation 'com.google.firebase:firebase-analystics-ktx'
 
     // retrofit 사용을 위해 추가 2021-06-06 by Andrew Kim
-    implementation 'com.squareup.retrofit2:retrofit:2.5.0'
+    implementation 'com.squareup.retrofit2:retrofit:2.9.0'
+    implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
 
     // okhttp 사용을 위해 추가 2021-06-06 by Andrew Kim
     implementation(platform("com.squareup.okhttp3:okhttp-bom:4.9.0"))
@@ -55,6 +55,13 @@ dependencies {
 
     // youtube player 사용을 위해 추가 2021-06-06 by Andrew Kim
     implementation files('libs/YouTubeAndroidPlayerApi.jar')
+
+    // youtube player view 사용을 위해 추가 2021-06-24 by Andrew Kim
+    //implementation 'kr.co.prnd:youtube-player-view:1.4.0'
+
+    // image 표시를 위해 추가 2021-06-27 by Andrew Kim
+    implementation 'com.github.bumptech.glide:glide:4.9.0'
+    annotationProcessor 'com.github.bumptech.glide:compiler:4.9.0'
 
     testImplementation 'junit:junit:4.+'
     androidTestImplementation 'androidx.test.ext:junit:1.1.1'

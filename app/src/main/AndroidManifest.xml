@@ -9,13 +9,22 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.VideoView">
-        <activity android:name=".MainActivity">
+        <activity android:name=".activity.TestActivity"></activity>
+        <activity android:name=".activity.SplashActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".activity.MainActivity" android:configChanges="keyboardHidden|orientation|screenSize"></activity>
     </application>
+
+    <!-- Android 11 버전에서의 youtube player 실행을 위해 추가 2021.06.25 by Andrew Kim -->
+    <queries>
+        <package android:name="com.google.android.youtube" />
+    </queries>
+
+    <uses-permission android:name="android.permission.INTERNET" />
 
 </manifest>

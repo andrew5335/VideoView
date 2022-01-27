@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="channelsList">https://www.googleapis.com/youtube/v3/channels</string>
+    <string name="channelSections">https://www.googleapis.com/youtube/v3/channelSections</string>
+    <string name="playList">https://www.googleapis.com/youtube/v3/playlists</string>
+    <string name="playListItems">https://www.googleapis.com/youtube/v3/playlistItems</string>
+    <string name="comments">https://www.googleapis.com/youtube/v3/comments</string>
+    <string name="commentsThread">https://www.googleapis.com/youtube/v3/commentThreads</string>
+    <string name="videoCatetories">https://www.googleapis.com/youtube/v3/videoCategories</string>
+    <string name="videos">https://www.googleapis.com/youtube/v3/videos</string>
+    <string name="search">https://www.googleapis.com/youtube/v3/search</string>
+</resources>

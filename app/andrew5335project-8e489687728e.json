@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "andrew5335project",
+  "private_key_id": "8e489687728eb5cb8b8a0a810409a397c72e948e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCm/v5LAJXZNuSz\nJaMKTvgOZl1pIHbkaicn5dQsfCIxwuLHtOQkxM5LanZggbdXz0v4Y5KgI8l388ow\nwKQwqJkzs0dO++Mox36h8kjGP77Non4WA7jP/0f0OC4G0XXmlbBVGls4vYMysfMY\nNKUqlG+k700ivN4upDDCELMsyf05SefYjbiqZPL8PLnu5wYGgVapwBofVAAOgrp7\n3EXj8lQiJK6233NCBpqEFNoIjW6iHJW3006zHNYNkDwe4/tLLL2qgs0xTcVf2LUb\nnE6AEIHpvHtlAVVyQGCLCHZbI0+2HrhJRpLIU6LpvWZqRIBKAiT3Yow76mb22BIF\nFzqFw2I5AgMBAAECggEADqXaP1DvU+y9NbuM6AgSOQ0gj2qSEyn+gkDmEfrXcv7x\nrmu/ATykDbhqZr+qCdE8jC6Lu3E4KEXhi9Ix9LStL3w/un1cqQSKpoDegkkwHtBs\nd9jeupvdP144J0/zJAUoQOa9bqYs3mL+fDaN8ESx4Ek/PldLs9KiFjupw7l59S7S\nmO9AqLzFpI8OTKA6laJbOFMmCqKbAiiQ4T6RG5atP4LXTQL+O3U4jPFBiGkkLEpb\nsmFoFdTVD9CMDzUqiGchmdBWUjgjVlX8SSd6r2VDbBFfNpofPIzNNOKuJhLBvCbv\nwWO2+Fp9PZIOiyRFRzHNIPxlccQbSa5MsRqlgpqwYwKBgQDR9vgG4W5TMlGcYqCC\na8iO+DDg6rzidHvMMUay5m+/UliQsoy767SLrkwuV2rVZOFdz9OKCnr+mhDzAD/4\nawxPmDPYAKIpVb/zhW4TCxoKtLuzLZ8So6dyBNUOGo+EdZMjTpo3MSd1a6UZQHZK\nINJ2TTZTahlct3aDGchKP/GXwwKBgQDLnEDD42Wg/6lNKxSEGbBkWpd31DasGL5R\nRnHuiz9BDvEQ6IshCg8rIPb8iOntGTmG1LvbOf4kSXPvawzD5vo+ESdAEgiA63c0\nvmHl6fRE9Wso5kBbIwfrcW5YeeVdhqfGkygk/VV6a9hkFtIAHwd0Sn3ggLJgXL83\ntHNRNe86UwKBgBkou82vQ5YKiIbxtoQKQE0JZmn9FscX6CGuoecb/7XwOxaTnpOC\nCe9W4mAHL5EEdpDUL2fyG4zYj0Fe/UtaIG6FMWknokbLtKWMjoUPpn4z6+3rgI0u\nOQlLlPAMtLfNkuT/LTGB3VWPoYfmFoaJak6sr97M7t8SSMwq0bo78UobAoGBAKwR\nKEpi6Yfdht3IAlaAvyiPxmFl3a4iWvOkbLQCyTnZvq9jVfBd5+OywAc6TTYpkwv2\ny6rAn51a1bcG6IrFr8S0Ck+C7dzFIMBaA7GgvOVp4V129/wM5qx5956dpNAc87xE\nsDBSRuJmMUCkaGPh1RLZwPbwy83Tk2UoAiwnQDwxAoGAUFJAtzUsJQAZkLgQV4wd\nPpNqVVnD1TvWpZNaBZy9jd1pe2ZaRm5wcbdxgo6+Hngdyp2aTRospWGtnSO0qtXX\nYqsdnLqrVwUPpWcr/uDKosNLWmFlDMF0MxK86sCTLY+zaG+ciNnXKY+CwLHp6qie\nr43ZQMqLJpRHPHg370LREXA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "androiod-youtube-video-view@andrew5335project.iam.gserviceaccount.com",
+  "client_id": "102306712458447713366",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/androiod-youtube-video-view%40andrew5335project.iam.gserviceaccount.com"
+}

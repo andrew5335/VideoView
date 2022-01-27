@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--youtube api key : php 서버에서 연결할때 사용하므로 여기서는 사용하지 않지만 일단 추가-->
+    <string name="youtubeApiKey">AIzaSyCh6xSN0JruCZXqzik183fU14aK9WJd0Lo</string>
+    <!--youtube android app용 api key : app에서는 이 키를 사용-->
+    <string name="youtubeAndroidKey">AIzaSyBThjdQ3nPoCOSxuIEu1fYf7Hb4w3tJdfg</string>
+    <!--oAuth 2.0 client id/사용할 일 없지만 일단 추가-->
+    <string name="oAuthClientId">270566936376-fb44727isr9v76r3pvb219amqtl46srn.apps.googleusercontent.com</string>
+</resources>
