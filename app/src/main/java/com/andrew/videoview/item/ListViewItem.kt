@@ -6,7 +6,8 @@ import com.google.gson.annotations.SerializedName
 /**
  * @author Andrew Kim
  * @since 2021. 06. 06
- * @desc ListView Item Class
+ * @desc ListView data Class
+ *       리스트 표시용 아이템
  */
 data class ListViewItem(
     @SerializedName("icon") val icon: Drawable
