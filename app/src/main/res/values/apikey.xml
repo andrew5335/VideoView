@@ -6,4 +6,5 @@
     <string name="youtubeAndroidKey">AIzaSyBThjdQ3nPoCOSxuIEu1fYf7Hb4w3tJdfg</string>
     <!--oAuth 2.0 client id/사용할 일 없지만 일단 추가-->
     <string name="oAuthClientId">270566936376-fb44727isr9v76r3pvb219amqtl46srn.apps.googleusercontent.com</string>
+    <string name="eye2webApiKey">ehdus77</string>
 </resources>

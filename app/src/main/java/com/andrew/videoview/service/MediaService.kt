@@ -7,7 +7,7 @@ import retrofit2.converter.gson.GsonConverterFactory
 class MediaService {
 
     companion object {
-        private const val apiUrl = ""
+        private const val apiUrl = "http://www.eye2web.co.kr/"
 
         val retrofit: Retrofit = Retrofit.Builder()
             .baseUrl(this.apiUrl)

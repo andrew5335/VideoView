@@ -9,4 +9,5 @@
     <string name="videoCatetories">https://www.googleapis.com/youtube/v3/videoCategories</string>
     <string name="videos">https://www.googleapis.com/youtube/v3/videos</string>
     <string name="search">https://www.googleapis.com/youtube/v3/search</string>
+    <string name="eye2webSearch">http://www.eye2web.co.kr</string>
 </resources>

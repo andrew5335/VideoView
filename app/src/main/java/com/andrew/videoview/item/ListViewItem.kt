@@ -14,4 +14,5 @@ data class ListViewItem(
     , @SerializedName("title") val title: String
     , @SerializedName("content") val content: String
     , @SerializedName("imageUrl") val imageUrl: String
+    , @SerializedName("videoId") val videoId: String
 )
